@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Spline from "@splinetool/react-spline";
-import { Grid, Typography, makeStyles } from "@mui/material";
+import { Grid } from "@mui/material";
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         <Spline scene="https://prod.spline.design/ekqlJiX42Sqf79M3/scene.splinecode" />
       </Grid>
       <Grid item xs={10}>
-        <h2 style={{textAlign: 'center'}}>&#169; Miks Casal</h2>
+        <h2 style={{textAlign: 'center'}}> &#169; Miks Casal</h2>
       </Grid>
     </Grid>
   );
