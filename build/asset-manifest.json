@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/psyduckshouse/static/css/main.946ffd29.css",
+    "main.js": "/psyduckshouse/static/js/main.e7c921d3.js",
+    "static/js/227.4bc62db1.chunk.js": "/psyduckshouse/static/js/227.4bc62db1.chunk.js",
+    "static/js/526.fdf471b7.chunk.js": "/psyduckshouse/static/js/526.fdf471b7.chunk.js",
+    "static/js/232.ebc63069.chunk.js": "/psyduckshouse/static/js/232.ebc63069.chunk.js",
+    "static/js/237.cff872fa.chunk.js": "/psyduckshouse/static/js/237.cff872fa.chunk.js",
+    "index.html": "/psyduckshouse/index.html",
+    "main.946ffd29.css.map": "/psyduckshouse/static/css/main.946ffd29.css.map",
+    "main.e7c921d3.js.map": "/psyduckshouse/static/js/main.e7c921d3.js.map",
+    "227.4bc62db1.chunk.js.map": "/psyduckshouse/static/js/227.4bc62db1.chunk.js.map",
+    "526.fdf471b7.chunk.js.map": "/psyduckshouse/static/js/526.fdf471b7.chunk.js.map",
+    "232.ebc63069.chunk.js.map": "/psyduckshouse/static/js/232.ebc63069.chunk.js.map",
+    "237.cff872fa.chunk.js.map": "/psyduckshouse/static/js/237.cff872fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946ffd29.css",
+    "static/js/main.e7c921d3.js"
+  ]
+}
