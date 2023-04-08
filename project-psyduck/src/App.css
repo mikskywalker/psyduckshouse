@@ -1,0 +1,21 @@
+
+.App {
+  height: 100vh;
+  background-color: rgb(230, 241, 241);
+}
+
+.Psy {
+  /* background-color: #FFD393; */
+  background-color: #C2E9F2;
+  background-image: radial-gradient(
+    /* #F54F29 1px, */
+    #D9B504 1px,
+  transparent 2px);
+  background-size: 50px 50px;
+  border-radius: 25px;
+}
+
+body {
+  font-family:  monospace;
+  
+}
